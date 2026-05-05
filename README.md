@@ -20,20 +20,20 @@
 ## 3. 분석 내용
 
 ### 3.1 시간대별 매출 분석
-![Hourly Sales](images\hourly_sales.png)
+![Hourly Sales](images/hourly_sales.png)
 
 - 오전 8~10시 매출이 가장 높으며, 10시에 피크 발생
 - 이후 11시부터 매출 급감
 - 저녁 시간대 매출 감소
 
 ### 3.2 요일별 매출 분석
-![Sales by Day](images\day_sales.png)
+![Sales by Day](images/day_sales.png)
 
 - 요일별 매출 차이는 크지 않으며 전반적으로 유사한 수준 유지
 - 특정 요일에 매출이 집중되는 현상은 확인되지 않음
 
 ### 3.3 제품별 매출 분석
-![Product Sales](images\product_sales.png)
+![Product Sales](images/product_sales.png)
 
 - Barista Espresso가 가장 높은 매출 기록
 - Tea 및 Hot Chocolate 제품도 높은 매출 기여
